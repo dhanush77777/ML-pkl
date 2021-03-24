@@ -1,0 +1,30 @@
+body {
+    background-color:lightpink;
+    text-align: center;
+}
+
+.navbar {
+    background-color:cyan;
+    text-align: center
+}
+.container-fluid{
+  text-align :center;
+  background-color: 
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+.container{
+  background-color:
+}
+.card{
+  background-color:dodgerblue 
+}
+h3{
+  color:red
+}
